@@ -5,7 +5,7 @@ This is a web based application developed for Finance in related based website i
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://happy-meadow-0ae642100.2.azurestaticapps.net
 
 *Project Demo Video Link* -
 
@@ -50,6 +50,7 @@ This is a web based application developed for Finance in related based website i
 
 ### Home -
 
+![Screenshot (53)](https://user-images.githubusercontent.com/121419868/209532804-28ad9286-4ad2-4dac-b30c-ed8e2d13074e.png)
 
 
 
@@ -78,9 +79,12 @@ This is a web based application developed for Finance in related based website i
 ### About -
 
 
+![Screenshot (54)](https://user-images.githubusercontent.com/121419868/209532826-34ecc415-f7d7-4d03-9e63-30978697d759.png)
 
 
+![Screenshot (55)](https://user-images.githubusercontent.com/121419868/209532838-6628ca60-bff7-4efb-8569-fadae5660245.png)
 
+![Screenshot (56)](https://user-images.githubusercontent.com/121419868/209532851-5abb5141-9b13-4058-af8b-cd456f60da14.png)
 
 
 
@@ -106,11 +110,14 @@ This is a web based application developed for Finance in related based website i
 ### Blog -
 
 
+![Screenshot (57)](https://user-images.githubusercontent.com/121419868/209532865-f34948f1-3515-4e77-8efc-f97a624bb8cd.png)
+
+
+![Screenshot (58)](https://user-images.githubusercontent.com/121419868/209532875-86eb33b2-cfdb-4af2-8e25-6f8081c3e3d7.png)
 
 
 
-
-
+![Screenshot (59)](https://user-images.githubusercontent.com/121419868/209532885-87759d83-6041-4dea-8f36-6f27c03c7b3f.png)
 
 
 
@@ -133,6 +140,7 @@ This is a web based application developed for Finance in related based website i
 
 
 
+![Screenshot (60)](https://user-images.githubusercontent.com/121419868/209532895-92351530-0899-4112-8220-388d28e3747c.png)
 
 
 
@@ -159,6 +167,7 @@ This is a web based application developed for Finance in related based website i
 
 
 
+![Screenshot (61)](https://user-images.githubusercontent.com/121419868/209532919-0bfd15ea-d28a-4547-8360-4a05590b81eb.png)
 
 
 
@@ -185,6 +194,7 @@ This is a web based application developed for Finance in related based website i
 
 
 
+![Screenshot (62)](https://user-images.githubusercontent.com/121419868/209532929-c84ee16a-1cd1-471b-94f3-6fdb59d07751.png)
 
 
 
@@ -209,6 +219,7 @@ This is a web based application developed for Finance in related based website i
 ### Health Bot -
 
 
+![Screenshot (63)](https://user-images.githubusercontent.com/121419868/209532941-5ab872e3-6d73-405c-9032-119f8f21edfb.png)
 
 
 
@@ -238,6 +249,7 @@ This is a web based application developed for Finance in related based website i
 ### Azure Static Web Apps -
 
 
+![Screenshot (52)](https://user-images.githubusercontent.com/121419868/209532979-ba354529-924b-4751-920d-86e462f3bce1.png)
 
 
 
@@ -266,6 +278,7 @@ This is a web based application developed for Finance in related based website i
 ### Azure Health Bot -
 
 
+![Screenshot (64)](https://user-images.githubusercontent.com/121419868/209532997-9c15f553-c9a1-4a83-946e-3cb99fdc1d38.png)
 
 
 
