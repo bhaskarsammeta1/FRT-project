@@ -7,7 +7,7 @@ This is a web based application developed for Finance in related based website i
 
 *Project Link* - https://happy-meadow-0ae642100.2.azurestaticapps.net
 
-*Project Demo Video Link* -
+*Project Demo Video Link* -https://youtu.be/eNyNcjYjVyU
 
 ## Azure Technologies Used For Project -
 1. Static Web Apps
